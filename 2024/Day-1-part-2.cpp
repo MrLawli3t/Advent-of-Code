@@ -10,7 +10,7 @@ int main() {
 
     std::array<unsigned int, N> list1, list2;
 
-    std::string filename = "AOC_2024_01_input.txt";
+    std::string filename = "input_2024_01.txt";
 
     std::ifstream inFile(filename);
 
